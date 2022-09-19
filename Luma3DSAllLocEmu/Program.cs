@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections;
 
-// ftp://10.0.0.34:5000/Nintendo%203DS/6f43b219b1247ad3ba3c340ea8935abd/390701234780ada7534c363400035344/title/00040000/
-// ftp://10.0.0.34:5000/luma/titles/
 namespace Luma3DSAllLocEmu
 {
     internal class Program
